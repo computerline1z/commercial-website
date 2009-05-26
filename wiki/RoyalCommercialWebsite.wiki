@@ -11,11 +11,17 @@ Dự án này nhằm tạo ra website bán hàng trực tuyến cho công ty Roy
 
 Website gồm những chức năng:
 - Danh mục hàng hóa, tình trạng hàng hóa.
+
 - Người dùng xem và đặt hàng qua mạng.
+
 - Cho phép đăng ký khách hàng thân thiết, thông kê dữ liệu giao dịch.
+
 - Phân quyền cho nhân viên và quản trị viên.
+
 - Cập nhật nội dung chuyên mục dễ dàng.
+
 - Thông kê được thông tin các lượt truy cập.
+
 - Ứng dụng tin tức: cập nhật tin tức từ các trang tin.
 
 Thành viên phát triển:
