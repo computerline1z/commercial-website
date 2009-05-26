@@ -1,15 +1,16 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Giới thiệu =
 
           Dự án tạo website cho công ty vật liệu xây dựng Royal.
 
 Công ty Royal là một công ty lớn trong lĩnh vực kinh doanh lĩnh vực xây dựng. Do nhu cầu mở rộng thị trường cũng như sự canh tranh ngày càng cao trên thương trường, công ty Royal quyết định xây dựng một website để quảng bá hình ảnh công ty và kinh doanh. 
 
 
-= Details =
+= Chi tiết dự án =
 
   Dự án này nhằm tạo ra website bán hàng trực tuyến cho công ty Royal. Website không những bắt mắt mà còn phải thỏa mãn như yêu cầu chức năng nhằm tạo thuận lợi cho người dùng cũng như nhân viên công ty.
+
 
 _*Website gồm những chức năng:*_
 
