@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Dự án tạo website cho công ty vật liệu xây dựng Royal. Công ty Royal là một công ty lớn trong lĩnh vực kinh doanh lĩnh vực xây dựng. Do nhu cầu mở rộng thị trường cũng như sự canh tranh ngày càng cao trên thương trường, công ty Royal quyết định xây dựng một website để quảng bá hình ảnh công ty và kinh doanh. 
+
+
+= Details =
+
+Dự án này nhằm tạo ra website bán hàng trực tuyến cho công ty Royal. Website không những bắt mắt mà còn phải thỏa mãn như yêu cầu chức năng nhằm tạo thuận lợi cho người dùng cũng như nhân viên công ty.
+
+Website gồm những chức năng:
+- Danh mục hàng hóa, tình trạng hàng hóa.
+- Người dùng xem và đặt hàng qua mạng.
+- Cho phép đăng ký khách hàng thân thiết, thông kê dữ liệu giao dịch.
+- Phân quyền cho nhân viên và quản trị viên.
+- Cập nhật nội dung chuyên mục dễ dàng.
+- Thông kê được thông tin các lượt truy cập.
+- Ứng dụng tin tức: cập nhật tin tức từ các trang tin.
+
+Thành viên phát triển:
+- Gồm 5 thành viên nhóm G5-Scylla
