@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\RoyalWebSite\", ".", "{207A3054-FA16-4821-B41B-ED0C5C904426}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/RoyalWebSite"
+		Debug.AspNetCompiler.PhysicalPath = "..\RoyalWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RoyalWebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RoyalWebSite"
+		Release.AspNetCompiler.PhysicalPath = "..\RoyalWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RoyalWebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1049"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207A3054-FA16-4821-B41B-ED0C5C904426}.Debug|.NET.ActiveCfg = Debug|.NET
+		{207A3054-FA16-4821-B41B-ED0C5C904426}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
